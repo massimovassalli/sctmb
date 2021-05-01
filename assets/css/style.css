@@ -688,6 +688,11 @@ p {
   padding-top: 50px;
 }
 
+.hero_content .hero_date {
+  font-size: 30px;
+  color: #fff;
+}
+
 .hero_content .hero_title {
   font-size: 60px;
   line-height: 85px;
@@ -1126,7 +1131,7 @@ p {
 
 .single_team .team_content {
   position: absolute;
-  background-color: #fff;
+  background-color: #ffffffbb;
   left: 0;
   bottom: 0;
   width: 85%;
