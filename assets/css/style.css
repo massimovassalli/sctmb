@@ -955,6 +955,10 @@ p {
   text-align: center;
 }
 
+.single_portfolio .affiliation {
+  font-size: 12pt;
+}
+
 .single_portfolio .portfolio_content .meta li {
   display: inline-block;
   margin: 0 5px;
@@ -1329,6 +1333,10 @@ p {
   height: 100%;
   background-color: rgba(43, 42, 61, 0.9);
   z-index: -1;
+}
+
+.contact_area a {
+  color: #E84E4E;
 }
 
 p.form-message.success, p.form-message.error {
